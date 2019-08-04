@@ -25,11 +25,11 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Joseph',
     'Computer Engineering student at <a href="https://tec.ac.cr">TEC</a>',
-    'I\'m also a big videogame/Nintendo nerd.<br>Co-director of <a href="https://www.cpokemon.com" target="_blank">Centro Pokémon 🎮</a>',
+    'I\'m also a big videogame/Nintendo nerd.<br>Co-director of <a href="https://www.cpokemon.com" target="_blank">Centro Pokémon</a> 🎮',
     'I really like modern web development and design',
-    'You can contact me at <a href="mailto:joseph@josvar.com">📧 joseph@josvar.com</a>',
+    'You can contact me at 📧 <a href="mailto:joseph@josvar.com">joseph@josvar.com</a>',
     '<a target="_blank" href="https://twitter.com/JosephTico">twitter.com/JosephTico</a><br><a target="_blank" href="https://www.linkedin.com/in/josephvargas/">linkedin.com/in/josephvargas</a><br><a target="_blank" href="https://github.com/JosephTico">github.com/JosephTico</a>',
-    'You can also <a href="/cv.pdf" target="_blank">📄 download my CV here</a>',
+    'You can also 📄 <a href="/cv.pdf" target="_blank">download my CV here</a>',
     getCurrentTime(),
     '👀 JV.'
   ]
