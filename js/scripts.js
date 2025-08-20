@@ -26,7 +26,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Joseph',
     'Computer Engineer, and web developer since I was around 11 years old',
-    'I\'m also a big videogame/Nintendo nerd.<br>Co-director of <a href="https://www.cpokemon.com" target="_blank">Centro Pokémon</a> 🎮',
+    'I\'m also a big videogame/Nintendo nerd.<br>Co-director of <a href="https://www.centropkmn.com" target="_blank">Centro Pokémon</a> 🎮, the biggest Pokémon fan website in the Spanish speaking world with over 1 million followers across our social media',
     'I really like modern web development and design',
     'You can contact me at 📧 <a href="mailto:joseph@josvar.com">joseph@josvar.com</a>',
     '<a target="_blank" href="https://x.com/JosephTico">x.com/JosephTico</a><br><a target="_blank" href="https://www.linkedin.com/in/josephvargas/">linkedin.com/in/josephvargas</a><br><a target="_blank" href="https://github.com/JosephTico">github.com/JosephTico</a>',
